@@ -1,0 +1,35 @@
+{
+  "dataset_version": "sentinelprompt_dataset_v1",
+  "sources": [
+    {
+      "name": "deepset/prompt-injections",
+      "license": "MIT",
+      "url": "https://huggingface.co/datasets/deepset/prompt-injections"
+    },
+    {
+      "name": "fmops/prompt-injection-dataset",
+      "license": "Apache-2.0",
+      "url": "https://huggingface.co/datasets/fmops/prompt-injection-dataset"
+    },
+    {
+      "name": "tensor_trust",
+      "license": "CC-BY-4.0",
+      "url": "https://github.com/HumanCompatibleAI/tensor-trust-data"
+    },
+    {
+      "name": "jailbreakbench",
+      "license": "MIT",
+      "url": "https://github.com/JailbreakBench/jailbreakbench"
+    },
+    {
+      "name": "stanford_alpaca",
+      "license": "Apache-2.0",
+      "url": "https://github.com/tatsu-lab/stanford_alpaca"
+    },
+    {
+      "name": "difficult_benign_corpus",
+      "license": "SentinelPrompt Internal Research",
+      "url": "local"
+    }
+  ]
+}

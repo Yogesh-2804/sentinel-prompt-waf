@@ -1,0 +1,40 @@
+{
+  "dataset_version": "sentinelprompt_dataset_v1",
+  "creation_date": "2026-07-29",
+  "total_raw_acquired": 126,
+  "total_removed": 2,
+  "total_final_samples": 124,
+  "class_distribution": {
+    "benign_0": 78,
+    "malicious_1": 46,
+    "benign_ratio_pct": 62.9,
+    "malicious_ratio_pct": 37.1
+  },
+  "category_distribution": {
+    "benign": 70,
+    "instruction_override": 24,
+    "role_manipulation": 8,
+    "context_manipulation": 4,
+    "jailbreak_instruction_bypass": 3,
+    "prompt_extraction": 5,
+    "obfuscation": 2,
+    "difficult_benign": 8
+  },
+  "split_distribution": {
+    "train": {
+      "total": 85,
+      "benign": 45,
+      "malicious": 40
+    },
+    "val": {
+      "total": 18,
+      "benign": 18,
+      "malicious": 0
+    },
+    "test": {
+      "total": 21,
+      "benign": 15,
+      "malicious": 6
+    }
+  }
+}

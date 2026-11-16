@@ -1,0 +1,6 @@
+{
+  "status": "SUCCESS",
+  "raw_samples": 126,
+  "final_samples": 124,
+  "leakage_audit_status": "PASSED_ZERO_LEAKAGE"
+}

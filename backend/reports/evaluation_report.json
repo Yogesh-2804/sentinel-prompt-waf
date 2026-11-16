@@ -1,0 +1,78 @@
+{
+  "baseline_1_no_defense": {
+    "confusion_matrix": {
+      "TP": 0,
+      "TN": 10,
+      "FP": 0,
+      "FN": 6
+    },
+    "accuracy": 0.625,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "false_negative_rate_fnr": 1.0,
+    "false_positive_rate_fpr": 0.0,
+    "avg_latency_ms": 0.0,
+    "project_targets_met": {
+      "fnr_under_5_percent": false,
+      "fpr_under_2_percent": true
+    }
+  },
+  "baseline_2_static_regex_keyword": {
+    "confusion_matrix": {
+      "TP": 1,
+      "TN": 10,
+      "FP": 0,
+      "FN": 5
+    },
+    "accuracy": 0.6875,
+    "precision": 1.0,
+    "recall": 0.1667,
+    "f1_score": 0.2857,
+    "false_negative_rate_fnr": 0.8333,
+    "false_positive_rate_fpr": 0.0,
+    "avg_latency_ms": 0.05,
+    "project_targets_met": {
+      "fnr_under_5_percent": false,
+      "fpr_under_2_percent": true
+    }
+  },
+  "baseline_3_supervised_ml_distilbert": {
+    "confusion_matrix": {
+      "TP": 6,
+      "TN": 9,
+      "FP": 1,
+      "FN": 0
+    },
+    "accuracy": 0.9375,
+    "precision": 0.8571,
+    "recall": 1.0,
+    "f1_score": 0.9231,
+    "false_negative_rate_fnr": 0.0,
+    "false_positive_rate_fpr": 0.1,
+    "avg_latency_ms": 83.48,
+    "project_targets_met": {
+      "fnr_under_5_percent": true,
+      "fpr_under_2_percent": false
+    }
+  },
+  "sentinelprompt_full_gateway": {
+    "confusion_matrix": {
+      "TP": 6,
+      "TN": 9,
+      "FP": 1,
+      "FN": 0
+    },
+    "accuracy": 0.9375,
+    "precision": 0.8571,
+    "recall": 1.0,
+    "f1_score": 0.9231,
+    "false_negative_rate_fnr": 0.0,
+    "false_positive_rate_fpr": 0.1,
+    "avg_latency_ms": 95.53,
+    "project_targets_met": {
+      "fnr_under_5_percent": true,
+      "fpr_under_2_percent": false
+    }
+  }
+}

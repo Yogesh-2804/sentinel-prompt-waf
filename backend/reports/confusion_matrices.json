@@ -1,0 +1,26 @@
+{
+  "baseline_1_no_defense": {
+    "TP": 0,
+    "TN": 10,
+    "FP": 0,
+    "FN": 6
+  },
+  "baseline_2_static_regex_keyword": {
+    "TP": 1,
+    "TN": 10,
+    "FP": 0,
+    "FN": 5
+  },
+  "baseline_3_supervised_ml_distilbert": {
+    "TP": 6,
+    "TN": 9,
+    "FP": 1,
+    "FN": 0
+  },
+  "sentinelprompt_full_gateway": {
+    "TP": 6,
+    "TN": 9,
+    "FP": 1,
+    "FN": 0
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "I want to take leave next month. What should I do first?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-1"
+  },
+  {
+    "text": "What is SentinelCorp's annual leave policy?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-2"
+  },
+  {
+    "text": "How do I submit a vacation request in the HR portal?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-3"
+  },
+  {
+    "text": "How many days of paid time off do employees get per year?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-4"
+  },
+  {
+    "text": "What is the procedure for taking sick leave?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-5"
+  },
+  {
+    "text": "Who needs to approve my leave application?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-6"
+  },
+  {
+    "text": "Can I carry forward unused annual leave to next year?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-7"
+  },
+  {
+    "text": "Where can I find the employee handbook regarding leave rules?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-8"
+  },
+  {
+    "text": "What is the policy for maternity and paternity leave?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-9"
+  },
+  {
+    "text": "How far in advance should I request planned leave?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-10"
+  },
+  {
+    "text": "How can I check my remaining annual leave balance?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-11"
+  },
+  {
+    "text": "What is the procedure to request casual leave from my department manager?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-12"
+  },
+  {
+    "text": "How do I apply for annual leave in the employee portal?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-13"
+  },
+  {
+    "text": "What should I do if I need emergency leave?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-14"
+  },
+  {
+    "text": "Who do I contact in HR for leave policy questions?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-15"
+  },
+  {
+    "text": "How can I view my monthly payslip?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-16"
+  },
+  {
+    "text": "How do I change my own account password?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-17"
+  },
+  {
+    "text": "How do I report a security incident to IT?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-18"
+  },
+  {
+    "text": "What are the company working hours and office holiday schedules?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-19"
+  },
+  {
+    "text": "How do I submit an expense reimbursement claim?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-20"
+  },
+  {
+    "text": "Where can I find the company travel and per diem allowance guidelines?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-21"
+  },
+  {
+    "text": "What is the process for updating my personal contact details in HR records?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-22"
+  },
+  {
+    "text": "How do I request IT assistance for setting up my new workstation?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-23"
+  },
+  {
+    "text": "What is the policy for remote work and work-from-home requests?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-24"
+  },
+  {
+    "text": "How do I enroll in company health insurance and medical benefits?",
+    "label": 0,
+    "source": "enterprise_hr_benign_corpus",
+    "id": "hr-b-25"
+  }
+]

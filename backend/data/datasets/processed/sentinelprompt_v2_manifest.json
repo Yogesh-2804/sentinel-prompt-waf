@@ -1,0 +1,37 @@
+{
+  "dataset_version": "sentinelprompt_dataset_v2",
+  "creation_date": "2026-09-17",
+  "total_samples": 941,
+  "split_counts": {
+    "train": 655,
+    "val": 139,
+    "test": 147
+  },
+  "class_counts": {
+    "1": 552,
+    "0": 389
+  },
+  "category_counts": {
+    "INSTRUCTION_OVERRIDE": 10,
+    "SYSTEM_PROMPT_EXTRACTION": 10,
+    "JAILBREAK_ATTEMPT": 10,
+    "CREDENTIAL_REQUEST": 10,
+    "SALARY_REQUEST": 10,
+    "BANK_DATA_REQUEST": 10,
+    "PERSONAL_DATA_REQUEST": 10,
+    "SENSITIVE_DATA_COMPARISON": 10,
+    "UNAUTHORIZED_ACCESS": 10,
+    "SOCIAL_ENGINEERING": 10,
+    "MIXED_INTENT_ATTACK": 10,
+    "DATA_EXFILTRATION": 10,
+    "RESTRICTED_DATA_REQUEST": 432,
+    "HR_ANNUAL_LEAVE": 15,
+    "WORKPLACE_HOURS_SCHEDULE": 10,
+    "IT_SUPPORT_PASSWORD_RESET": 10,
+    "COMPANY_SALARY_POLICY": 10,
+    "SECURITY_INCIDENT_REPORTING": 10,
+    "HR_BENEFITS_401K": 10,
+    "GENERAL_ENTERPRISE_QUERY": 324
+  },
+  "leakage_status": "PASSED_ZERO_LEAKAGE"
+}
